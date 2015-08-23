@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+.idea/
+gfwlist.txt
+myrule
+ss.pac
+fabfile.py
